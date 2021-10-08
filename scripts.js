@@ -123,6 +123,7 @@ function equal(){
 
     }
     previous.textContent = total;
+    current.textContent = "";
 };
 
 
